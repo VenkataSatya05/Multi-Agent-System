@@ -1,1 +1,4 @@
 *.pdf
+*.faiss
+*.pkl
+vectorstore/
